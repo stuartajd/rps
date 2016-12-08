@@ -1,0 +1,20 @@
+{
+  "name": "rps",
+  "version": "1.0.0",
+  "description": "A game of Rock Paper Scissors for NodeJS",
+  "main": "rps.js",
+  "scripts": {
+    "rps": "node rps.js"
+  },
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/stuartajd/rps.git"
+  },
+  "author": "Stuart Davidson",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
+    "random-int": "^1.0.0"
+  }
+}
