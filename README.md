@@ -1,11 +1,11 @@
-#Rock Paper Scissors
+# Rock Paper Scissors
 
 A very basic game of Rock Paper Scissors for NodeJS.
 
-##Screenshots
+## Screenshots
 ![Rock Paper Scissors Console Display](http://upload.stuartd.co.uk/r/OGMyNWMzNmIzMTd.png)
 
-##Installation
+## Installation
 >To install required modules
 ```
 npm install
